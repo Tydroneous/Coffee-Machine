@@ -8,7 +8,7 @@ coffee_beans = 120
 disposable_cups = 9
 
 
-def is_possible(self, drink_choice):
+def is_possible(drink_choice):
     global cash_in_machine
     global water
     global milk
